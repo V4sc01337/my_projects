@@ -1,0 +1,631 @@
+Year,"Country of origin","Country of asylum","Country of origin (ISO)","Country of asylum (ISO)",Authority,"Stage of procedure","Cases / Persons","Recognized decisions","Complementary protection","Rejected decisions","Otherwise closed","Total decisions"
+2010,Ukraine,Austria,UKR,AUT,G,FA,P,14,15,194,27,250
+2010,Ukraine,Belgium,UKR,BEL,G,FI,P,0,0,30,10,40
+2010,Ukraine,Belarus,UKR,BLR,G,FI,P,0,0,5,5,10
+2010,Ukraine,Bulgaria,UKR,BGR,G,FI,C,0,0,5,0,5
+2010,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,5,22,27
+2010,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,16,0,16
+2010,Ukraine,Czechia,UKR,CZE,G,AR,P,23,0,69,22,114
+2010,Ukraine,Czechia,UKR,CZE,G,FI,P,11,5,72,56,144
+2010,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,5,5,10
+2010,Ukraine,France,UKR,FRA,G,FI,P,10,0,73,0,83
+2010,Ukraine,France,UKR,FRA,G,RA,P,5,5,0,0,10
+2010,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,0,5,44,15,64
+2010,Ukraine,Georgia,UKR,GEO,G,FA,P,0,0,5,0,5
+2010,Ukraine,Germany,UKR,DEU,G,NA,P,0,0,27,24,51
+2010,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,0,10,10
+2010,Ukraine,Greece,UKR,GRC,G,FI,P,0,0,13,19,32
+2010,Ukraine,Croatia,UKR,HRV,G,AR,P,0,0,5,0,5
+2010,Ukraine,Croatia,UKR,HRV,G,FI,P,0,0,5,0,5
+2010,Ukraine,Hungary,UKR,HUN,G,FI,P,0,0,5,5,10
+2010,Ukraine,Ireland,UKR,IRL,G,AR,P,0,0,14,0,14
+2010,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,10,0,10
+2010,Ukraine,Italy,UKR,ITA,G,FI,P,0,0,16,0,16
+2010,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,0,5,5
+2010,Ukraine,"Rep. of Moldova",UKR,MDA,G,FA,P,0,0,5,0,5
+2010,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,5,27,0,32
+2010,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,25,0,25
+2010,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,0,14,14
+2010,Ukraine,Poland,UKR,POL,G,FI,P,0,5,11,13,29
+2010,Ukraine,Romania,UKR,ROU,G,FA,P,0,0,10,0,10
+2010,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,0,0,14,0,14
+2010,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,10,0,0,10
+2010,Ukraine,Spain,UKR,ESP,G,FI,P,0,0,0,5,5
+2010,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,0,20,20
+2010,Ukraine,Sweden,UKR,SWE,G,FI,P,0,0,95,21,116
+2010,Ukraine,Sweden,UKR,SWE,G,JR,P,0,0,62,10,72
+2010,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,0,10,24,34
+2010,Ukraine,Switzerland,UKR,CHE,G,TP,P,0,16,0,0,16
+2011,Ukraine,Austria,UKR,AUT,G,FA,P,11,20,152,19,202
+2011,Ukraine,Belgium,UKR,BEL,G,FI,P,0,0,33,0,33
+2011,Ukraine,Belarus,UKR,BLR,G,FI,P,0,0,5,0,5
+2011,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,10,10,20
+2011,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,5,0,5
+2011,Ukraine,Czechia,UKR,CZE,G,FI,P,12,0,0,0,12
+2011,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,5,0,5
+2011,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,0,12,12
+2011,Ukraine,France,UKR,FRA,G,FI,P,0,0,74,0,74
+2011,Ukraine,France,UKR,FRA,G,JR,P,5,0,46,0,51
+2011,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,5,0,5,0,10
+2011,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,0,0,30,10,40
+2011,Ukraine,Germany,UKR,DEU,G,NA,P,5,10,33,14,62
+2011,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,0,10,10
+2011,Ukraine,Greece,UKR,GRC,G,FI,P,0,0,41,14,55
+2011,Ukraine,Hungary,UKR,HUN,G,FI,P,0,0,0,5,5
+2011,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,5,0,5
+2011,Ukraine,Italy,UKR,ITA,G,FI,P,0,0,19,0,19
+2011,Ukraine,"Rep. of Moldova",UKR,MDA,G,FA,P,0,0,12,0,12
+2011,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,0,35,0,35
+2011,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,JR,P,0,0,5,0,5
+2011,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,10,0,10
+2011,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,5,11,16
+2011,Ukraine,Poland,UKR,POL,G,FI,P,0,5,39,31,75
+2011,Ukraine,Romania,UKR,ROU,G,FA,P,0,0,5,0,5
+2011,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,0,0,0,10,10
+2011,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,0,0,5,5
+2011,Ukraine,Spain,UKR,ESP,G,FI,P,0,0,10,0,10
+2011,Ukraine,Slovakia,UKR,SVK,G,FI,C,0,0,0,5,5
+2011,Ukraine,Slovenia,UKR,SVN,G,FI,P,0,0,0,5,5
+2011,Ukraine,Sweden,UKR,SWE,G,AR,P,0,5,104,11,120
+2011,Ukraine,Sweden,UKR,SWE,G,FI,P,0,5,127,17,149
+2011,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,0,5,23,28
+2012,Ukraine,Austria,UKR,AUT,G,FA,P,10,0,55,10,75
+2012,Ukraine,Belgium,UKR,BEL,G,FI,P,10,0,75,16,101
+2012,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,0,0,5,5
+2012,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,30,19,49
+2012,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,5,5,10
+2012,Ukraine,Czechia,UKR,CZE,G,FI,P,5,5,117,74,201
+2012,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,0,5,5
+2012,Ukraine,France,UKR,FRA,G,AR,P,5,0,63,0,68
+2012,Ukraine,France,UKR,FRA,G,FI,P,5,0,87,0,92
+2012,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,12,0,0,0,12
+2012,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,10,0,33,12,55
+2012,Ukraine,Germany,UKR,DEU,G,NA,P,0,0,18,5,23
+2012,Ukraine,Germany,UKR,DEU,G,RA,P,0,5,0,16,21
+2012,Ukraine,Greece,UKR,GRC,G,FI,P,0,0,32,30,62
+2012,Ukraine,Croatia,UKR,HRV,G,FI,P,5,0,5,0,10
+2012,Ukraine,Ireland,UKR,IRL,G,AR,P,0,0,13,0,13
+2012,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,16,0,16
+2012,Ukraine,Italy,UKR,ITA,G,FI,P,0,0,11,0,11
+2012,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,5,0,5
+2012,Ukraine,Lithuania,UKR,LTU,G,FI,P,5,0,0,0,5
+2012,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,0,33,0,33
+2012,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,5,0,5
+2012,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,16,10,26
+2012,Ukraine,Poland,UKR,POL,G,AR,P,0,0,11,10,21
+2012,Ukraine,Poland,UKR,POL,G,FI,P,0,0,48,32,80
+2012,Ukraine,Portugal,UKR,PRT,G,FI,P,0,0,0,5,5
+2012,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,0,0,13,0,13
+2012,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,0,5,0,5
+2012,Ukraine,Spain,UKR,ESP,G,FI,P,0,0,15,0,15
+2012,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,5,5,10
+2012,Ukraine,Sweden,UKR,SWE,G,AR,P,0,0,146,19,165
+2012,Ukraine,Sweden,UKR,SWE,G,FI,P,0,0,91,24,115
+2012,Ukraine,Switzerland,UKR,CHE,G,AR,P,0,0,0,0,13
+2012,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,0,5,18,23
+2013,Ukraine,Austria,UKR,AUT,G,FA,P,0,10,68,10,88
+2013,Ukraine,Belgium,UKR,BEL,G,FI,P,10,0,31,5,46
+2013,Ukraine,Belgium,UKR,BEL,G,JR,C,0,0,25,5,30
+2013,Ukraine,Belgium,UKR,BEL,G,RA,P,0,0,0,5,5
+2013,Ukraine,Belarus,UKR,BLR,G,FI,P,0,0,5,0,5
+2013,Ukraine,Bulgaria,UKR,BGR,G,FI,P,0,0,5,0,5
+2013,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,5,0,5
+2013,Ukraine,Czechia,UKR,CZE,G,FI,P,10,0,92,69,171
+2013,Ukraine,Denmark,UKR,DNK,G,AR,P,5,0,0,0,5
+2013,Ukraine,Denmark,UKR,DNK,G,FI,P,5,0,21,0,26
+2013,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,13,5,18
+2013,Ukraine,France,UKR,FRA,G,AR,P,10,0,69,0,79
+2013,Ukraine,France,UKR,FRA,G,FI,P,12,0,97,0,109
+2013,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,5,0,5,0,10
+2013,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,10,0,21,14,45
+2013,Ukraine,Germany,UKR,DEU,G,NA,P,0,5,24,26,55
+2013,Ukraine,Greece,UKR,GRC,G,AR,P,0,5,0,0,5
+2013,Ukraine,Greece,UKR,GRC,G,FI,P,0,0,27,16,43
+2013,Ukraine,Hungary,UKR,HUN,G,FI,P,0,0,0,5,5
+2013,Ukraine,Ireland,UKR,IRL,G,AR,P,0,0,5,0,5
+2013,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,0,11,11
+2013,Ukraine,Ireland,UKR,IRL,G,SP,P,0,0,5,0,5
+2013,Ukraine,Italy,UKR,ITA,G,FI,P,5,15,18,0,38
+2013,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,5,5
+2013,Ukraine,Lithuania,UKR,LTU,G,FI,P,5,0,0,0,5
+2013,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,5,38,0,43
+2013,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,JR,P,5,0,0,0,5
+2013,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,37,0,37
+2013,Ukraine,Norway,UKR,NOR,G,FI,P,0,5,14,10,29
+2013,Ukraine,Poland,UKR,POL,G,AR,P,0,0,11,0,11
+2013,Ukraine,Poland,UKR,POL,G,FI,P,0,13,38,27,78
+2013,Ukraine,Romania,UKR,ROU,G,FI,P,0,0,10,0,10
+2013,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,0,0,10,5,15
+2013,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,0,5,0,5
+2013,Ukraine,Spain,UKR,ESP,G,FI,P,0,0,11,0,11
+2013,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,0,5,5
+2013,Ukraine,Slovenia,UKR,SVN,G,FI,P,0,0,0,5,5
+2013,Ukraine,Sweden,UKR,SWE,G,AR,P,0,0,78,10,88
+2013,Ukraine,Sweden,UKR,SWE,G,FI,P,0,12,72,43,127
+2013,Ukraine,Switzerland,UKR,CHE,G,AR,P,0,10,12,0,22
+2013,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,14,0,33,47
+2014,Ukraine,Armenia,UKR,ARM,G,FI,P,43,0,0,46,89
+2014,Ukraine,Azerbaijan,UKR,AZE,G,FI,P,0,0,59,10,69
+2014,Ukraine,Belgium,UKR,BEL,G,FI,P,12,0,130,70,212
+2014,Ukraine,Belgium,UKR,BEL,G,JR,C,0,0,18,0,18
+2014,Ukraine,Belgium,UKR,BEL,G,RA,P,0,0,0,26,26
+2014,Ukraine,Belarus,UKR,BLR,G,FI,P,0,284,31,181,496
+2014,Ukraine,Bulgaria,UKR,BGR,G,FI,P,0,0,0,11,11
+2014,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,0,10,10
+2014,Ukraine,Czechia,UKR,CZE,G,FI,P,25,119,106,120,370
+2014,Ukraine,Denmark,UKR,DNK,G,AR,P,0,0,18,0,18
+2014,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,10,0,10
+2014,Ukraine,Estonia,UKR,EST,G,FI,P,0,0,0,14,14
+2014,Ukraine,Finland,UKR,FIN,G,FI,P,0,5,200,54,259
+2014,Ukraine,France,UKR,FRA,G,AR,P,5,5,59,0,69
+2014,Ukraine,France,UKR,FRA,G,FI,P,20,0,171,0,191
+2014,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,0,0,14,0,14
+2014,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,0,5,153,56,214
+2014,Ukraine,Georgia,UKR,GEO,G,FI,P,0,0,5,62,67
+2014,Ukraine,Germany,UKR,DEU,G,NA,P,10,10,36,274,330
+2014,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,0,15,15
+2014,Ukraine,Greece,UKR,GRC,G,AR,P,0,0,27,14,41
+2014,Ukraine,Greece,UKR,GRC,G,FI,P,0,5,79,40,124
+2014,Ukraine,Croatia,UKR,HRV,G,FI,P,0,0,5,5,10
+2014,Ukraine,Hungary,UKR,HUN,G,FI,P,0,0,18,21,39
+2014,Ukraine,Iceland,UKR,ISL,G,FI,P,0,5,5,0,10
+2014,Ukraine,Ireland,UKR,IRL,G,AR,P,0,0,0,5,5
+2014,Ukraine,Ireland,UKR,IRL,G,FI,P,5,0,21,5,31
+2014,Ukraine,Ireland,UKR,IRL,G,SP,P,0,0,10,15,25
+2014,Ukraine,Italy,UKR,ITA,G,FI,P,10,155,80,0,245
+2014,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,5,5
+2014,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,29,5,12,46
+2014,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,0,5,5
+2014,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,5,15,20
+2014,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,17,16,18,51
+2014,Ukraine,Malta,UKR,MLT,G,FI,P,0,27,0,18,45
+2014,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,5,0,153,0,158
+2014,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,JR,P,0,0,10,0,10
+2014,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,63,5,68
+2014,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,77,40,117
+2014,Ukraine,Poland,UKR,POL,G,AR,P,0,0,156,13,169
+2014,Ukraine,Poland,UKR,POL,G,FI,P,0,5,645,373,1023
+2014,Ukraine,Portugal,UKR,PRT,G,FI,P,0,18,0,5,23
+2014,Ukraine,Romania,UKR,ROU,G,FI,P,0,16,5,10,31
+2014,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,241,0,3886,0,4127
+2014,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,248201,0,16687,264888
+2014,Ukraine,Spain,UKR,ESP,G,FI,P,0,0,79,0,79
+2014,Ukraine,"Serbia and Kosovo: S/RES/1244 (1999)",UKR,SRB,G,FI,P,0,0,0,5,5
+2014,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,5,5,10
+2014,Ukraine,Slovenia,UKR,SVN,G,FI,P,0,0,10,0,10
+2014,Ukraine,Sweden,UKR,SWE,G,AR,P,0,0,109,16,125
+2014,Ukraine,Sweden,UKR,SWE,G,FI,P,10,23,162,234,429
+2014,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,0,92,25,117
+2015,Ukraine,Armenia,UKR,ARM,G,FI,P,68,0,14,36,118
+2015,Ukraine,Austria,UKR,AUT,G,FA,P,22,10,115,47,194
+2015,Ukraine,Azerbaijan,UKR,AZE,G,FI,P,0,0,23,10,33
+2015,Ukraine,Azerbaijan,UKR,AZE,U,FI,P,17,0,5,0,22
+2015,Ukraine,Belgium,UKR,BEL,G,FI,P,73,42,303,26,444
+2015,Ukraine,Belgium,UKR,BEL,G,JR,C,0,0,108,11,119
+2015,Ukraine,Belgium,UKR,BEL,G,RA,P,0,0,0,23,23
+2015,Ukraine,Belarus,UKR,BLR,G,FI,P,0,805,31,100,936
+2015,Ukraine,Belarus,UKR,BLR,G,JR,P,0,0,11,0,11
+2015,Ukraine,Bulgaria,UKR,BGR,G,FI,P,0,0,40,17,57
+2015,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,0,35,35
+2015,Ukraine,Czechia,UKR,CZE,G,FI,P,5,175,277,172,629
+2015,Ukraine,Denmark,UKR,DNK,G,AR,P,0,5,30,0,35
+2015,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,66,0,66
+2015,Ukraine,Estonia,UKR,EST,G,FI,P,5,54,18,23,100
+2015,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,58,15,73
+2015,Ukraine,France,UKR,FRA,G,AR,P,33,21,226,22,302
+2015,Ukraine,France,UKR,FRA,G,FI,P,100,206,953,0,1259
+2015,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,14,0,20,0,34
+2015,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,0,0,243,73,316
+2015,Ukraine,Georgia,UKR,GEO,G,FI,P,0,444,66,215,725
+2015,Ukraine,Georgia,UKR,GEO,G,JR,P,0,0,0,5,5
+2015,Ukraine,Germany,UKR,DEU,G,JR,P,0,0,18,307,325
+2015,Ukraine,Germany,UKR,DEU,G,NA,P,51,0,42,874,967
+2015,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,0,41,41
+2015,Ukraine,Greece,UKR,GRC,G,AR,P,5,28,28,10,71
+2015,Ukraine,Greece,UKR,GRC,G,FI,P,0,42,130,33,205
+2015,Ukraine,Croatia,UKR,HRV,G,FI,P,0,0,13,0,13
+2015,Ukraine,Croatia,UKR,HRV,G,JR,P,0,0,5,0,5
+2015,Ukraine,Hungary,UKR,HUN,G,FA,P,0,5,5,21,31
+2015,Ukraine,Iceland,UKR,ISL,G,FI,P,5,5,0,0,10
+2015,Ukraine,Ireland,UKR,IRL,G,AR,P,5,0,5,0,10
+2015,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,25,13,38
+2015,Ukraine,Ireland,UKR,IRL,G,SP,P,0,0,10,5,15
+2015,Ukraine,Italy,UKR,ITA,G,FI,P,79,1555,848,0,2482
+2015,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,10,10
+2015,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,26,26,21,73
+2015,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,5,26,31
+2015,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,37,55,92
+2015,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,93,29,50,172
+2015,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,5,0,5
+2015,Ukraine,Montenegro,UKR,MNE,G,FA,P,0,0,0,5,5
+2015,Ukraine,Malta,UKR,MLT,G,FI,P,0,51,0,5,56
+2015,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,5,0,387,60,452
+2015,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,34,0,34
+2015,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,73,5,78
+2015,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,53,35,88
+2015,Ukraine,Poland,UKR,POL,G,FI,P,0,5,1776,766,2547
+2015,Ukraine,Portugal,UKR,PRT,G,FI,P,0,118,0,166,284
+2015,Ukraine,Romania,UKR,ROU,G,FI,P,18,5,17,5,45
+2015,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,84,0,1790,0,1874
+2015,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,148379,0,21,148400
+2015,Ukraine,Spain,UKR,ESP,G,FI,P,0,0,5,0,5
+2015,Ukraine,"Serbia and Kosovo: S/RES/1244 (1999)",UKR,SRB,G,FI,P,12,0,0,0,12
+2015,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,12,10,21,43
+2015,Ukraine,Slovenia,UKR,SVN,G,FI,P,0,0,17,11,28
+2015,Ukraine,Sweden,UKR,SWE,G,AR,P,5,5,358,37,405
+2015,Ukraine,Sweden,UKR,SWE,G,FI,P,0,25,438,389,852
+2015,Ukraine,Sweden,UKR,SWE,G,RA,P,0,5,20,20,45
+2015,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,0,196,42,238
+2016,Ukraine,Armenia,UKR,ARM,G,FI,P,5,0,0,0,5
+2016,Ukraine,Austria,UKR,AUT,G,FA,P,22,22,67,125,236
+2016,Ukraine,Belgium,UKR,BEL,G,FI,P,56,5,109,11,181
+2016,Ukraine,Belgium,UKR,BEL,G,JR,C,5,0,72,0,77
+2016,Ukraine,Belgium,UKR,BEL,G,RA,P,0,0,0,32,32
+2016,Ukraine,Belarus,UKR,BLR,G,FI,P,0,560,18,84,662
+2016,Ukraine,Belarus,UKR,BLR,G,JR,P,0,0,0,5,5
+2016,Ukraine,Bulgaria,UKR,BGR,G,FI,P,0,0,34,0,34
+2016,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,0,24,24
+2016,Ukraine,Czechia,UKR,CZE,G,FI,P,5,46,306,180,537
+2016,Ukraine,Denmark,UKR,DNK,G,AR,P,10,0,33,0,43
+2016,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,42,0,42
+2016,Ukraine,Estonia,UKR,EST,G,FI,P,0,22,13,5,40
+2016,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,47,23,70
+2016,Ukraine,Finland,UKR,FIN,G,RA,P,0,0,0,10,10
+2016,Ukraine,France,UKR,FRA,G,AR,P,89,13,642,44,788
+2016,Ukraine,France,UKR,FRA,G,FI,P,143,71,847,0,1061
+2016,Ukraine,France,UKR,FRA,G,RA,P,5,0,20,36,61
+2016,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,13,0,34,5,52
+2016,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,0,0,105,32,137
+2016,Ukraine,Georgia,UKR,GEO,G,FI,P,0,51,5,17,73
+2016,Ukraine,Germany,UKR,DEU,G,JR,P,0,0,180,629,809
+2016,Ukraine,Germany,UKR,DEU,G,NA,P,28,34,2260,1605,3927
+2016,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,20,93,113
+2016,Ukraine,Greece,UKR,GRC,G,AR,P,0,5,28,10,43
+2016,Ukraine,Greece,UKR,GRC,G,FI,P,0,24,68,27,119
+2016,Ukraine,Croatia,UKR,HRV,G,FI,P,0,0,0,5,5
+2016,Ukraine,Croatia,UKR,HRV,G,JR,P,0,0,10,0,10
+2016,Ukraine,Hungary,UKR,HUN,G,FA,P,5,0,5,20,30
+2016,Ukraine,Iceland,UKR,ISL,G,FI,P,0,5,5,5,15
+2016,Ukraine,Ireland,UKR,IRL,G,AR,P,5,0,11,5,21
+2016,Ukraine,Ireland,UKR,IRL,G,FI,P,10,0,27,5,42
+2016,Ukraine,Ireland,UKR,IRL,G,SP,P,5,0,5,5,15
+2016,Ukraine,Italy,UKR,ITA,G,FI,P,55,1795,1394,0,3244
+2016,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,5,0,0,5
+2016,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,0,22,14,36
+2016,Ukraine,Luxembourg,UKR,LUX,G,AR,P,0,0,5,0,5
+2016,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,10,0,10
+2016,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,10,0,10
+2016,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,5,27,17,49
+2016,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,20,0,20
+2016,Ukraine,Montenegro,UKR,MNE,G,FA,P,0,0,5,0,5
+2016,Ukraine,Malta,UKR,MLT,G,FI,P,0,31,0,11,42
+2016,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,5,0,170,361,536
+2016,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,20,0,20
+2016,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,27,5,32
+2016,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,14,31,45
+2016,Ukraine,Poland,UKR,POL,G,AR,P,5,5,451,130,591
+2016,Ukraine,Poland,UKR,POL,G,FI,P,16,51,696,434,1197
+2016,Ukraine,Portugal,UKR,PRT,G,FI,P,5,191,5,60,261
+2016,Ukraine,Romania,UKR,ROU,G,FI,P,5,0,0,5,10
+2016,Ukraine,Romania,UKR,ROU,G,JR,P,0,0,5,0,5
+2016,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,33,0,0,302,335
+2016,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,21095,0,1018,22113
+2016,Ukraine,Spain,UKR,ESP,G,FI,P,16,50,345,0,411
+2016,Ukraine,"Serbia and Kosovo: S/RES/1244 (1999)",UKR,SRB,G,FI,P,0,5,0,0,5
+2016,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,14,5,19
+2016,Ukraine,Sweden,UKR,SWE,G,AR,P,10,11,805,108,934
+2016,Ukraine,Sweden,UKR,SWE,G,FI,P,15,47,1213,367,1642
+2016,Ukraine,Sweden,UKR,SWE,G,RA,P,0,5,45,31,81
+2016,Ukraine,Switzerland,UKR,CHE,G,FI,P,5,19,87,73,184
+2017,Ukraine,Armenia,UKR,ARM,G,FI,P,13,0,0,0,13
+2017,Ukraine,Austria,UKR,AUT,G,FA,P,10,13,247,183,453
+2017,Ukraine,Belgium,UKR,BEL,G,FI,P,30,15,200,0,245
+2017,Ukraine,Belarus,UKR,BLR,G,FI,P,0,518,15,16,549
+2017,Ukraine,Belarus,UKR,BLR,G,JR,P,0,0,5,0,5
+2017,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,0,24,5,29
+2017,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,0,5,5
+2017,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,86,23,109
+2017,Ukraine,Czechia,UKR,CZE,G,FI,P,10,25,276,196,507
+2017,Ukraine,Denmark,UKR,DNK,G,AR,P,0,0,19,0,19
+2017,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,30,0,30
+2017,Ukraine,Estonia,UKR,EST,G,FI,P,0,10,5,5,20
+2017,Ukraine,Finland,UKR,FIN,G,FI,C,0,0,21,27,48
+2017,Ukraine,Finland,UKR,FIN,G,RA,C,0,0,0,5,5
+2017,Ukraine,France,UKR,FRA,G,AR,P,71,30,413,5,519
+2017,Ukraine,France,UKR,FRA,G,FI,P,43,119,460,5,627
+2017,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,13,0,42,5,60
+2017,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,13,5,107,45,170
+2017,Ukraine,Georgia,UKR,GEO,G,FI,P,0,17,5,10,32
+2017,Ukraine,Germany,UKR,DEU,G,JR,P,5,15,1191,996,2207
+2017,Ukraine,Germany,UKR,DEU,G,NA,P,109,186,4071,1046,5412
+2017,Ukraine,Germany,UKR,DEU,G,RA,P,0,5,98,277,380
+2017,Ukraine,Greece,UKR,GRC,G,AR,P,0,5,12,5,22
+2017,Ukraine,Greece,UKR,GRC,G,FI,P,0,17,50,23,90
+2017,Ukraine,Hungary,UKR,HUN,G,FI,P,0,0,5,5,10
+2017,Ukraine,Iceland,UKR,ISL,G,AR,P,0,0,11,0,11
+2017,Ukraine,Iceland,UKR,ISL,G,FI,P,0,0,0,5,5
+2017,Ukraine,Ireland,UKR,IRL,G,AR,P,0,0,5,0,5
+2017,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,17,12,29
+2017,Ukraine,Italy,UKR,ITA,G,FI,P,42,1222,460,109,1833
+2017,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,12,12
+2017,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,5,0,10,15
+2017,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,10,0,10
+2017,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,0,5,5
+2017,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,0,27,5,32
+2017,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,10,0,10
+2017,Ukraine,Montenegro,UKR,MNE,G,FA,P,0,0,5,5,10
+2017,Ukraine,Malta,UKR,MLT,G,AR,P,0,0,0,5,5
+2017,Ukraine,Malta,UKR,MLT,G,FI,P,0,10,81,18,109
+2017,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,0,71,15,86
+2017,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,23,0,23
+2017,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,24,5,29
+2017,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,21,12,33
+2017,Ukraine,Norway,UKR,NOR,G,RA,P,0,0,5,0,5
+2017,Ukraine,Poland,UKR,POL,G,AR,P,0,22,489,0,511
+2017,Ukraine,Poland,UKR,POL,G,FI,P,56,199,354,248,857
+2017,Ukraine,Portugal,UKR,PRT,G,FI,P,5,40,10,0,55
+2017,Ukraine,Romania,UKR,ROU,G,FI,P,0,0,10,0,10
+2017,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,14,0,0,91,105
+2017,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,9678,0,2932,12610
+2017,Ukraine,Spain,UKR,ESP,G,FI,P,27,273,3017,82,3399
+2017,Ukraine,"Serbia and Kosovo: S/RES/1244 (1999)",UKR,SRB,G,FI,P,0,0,5,0,5
+2017,Ukraine,Slovakia,UKR,SVK,G,FA,P,0,12,5,0,17
+2017,Ukraine,Slovenia,UKR,SVN,G,FA,P,0,0,5,0,5
+2017,Ukraine,Sweden,UKR,SWE,G,AR,P,10,5,674,57,746
+2017,Ukraine,Sweden,UKR,SWE,G,FI,P,5,5,401,211,622
+2017,Ukraine,Sweden,UKR,SWE,G,RA,P,0,0,35,20,55
+2017,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,5,44,58,107
+2018,Ukraine,Armenia,UKR,ARM,G,FI,P,0,0,0,5,5
+2018,Ukraine,Austria,UKR,AUT,G,FA,P,23,25,260,74,382
+2018,Ukraine,Belarus,UKR,BLR,G,FI,P,0,836,17,30,883
+2018,Ukraine,Belarus,UKR,BLR,G,JR,P,0,0,0,5,5
+2018,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,0,5,14,19
+2018,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,0,10,10
+2018,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,0,19,19
+2018,Ukraine,Czechia,UKR,CZE,G,FI,P,5,13,222,137,377
+2018,Ukraine,Denmark,UKR,DNK,G,AR,P,0,0,5,0,5
+2018,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,25,0,25
+2018,Ukraine,Estonia,UKR,EST,G,FI,P,0,0,5,0,5
+2018,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,20,5,25
+2018,Ukraine,France,UKR,FRA,G,AR,P,28,10,191,66,295
+2018,Ukraine,France,UKR,FRA,G,FI,P,41,54,373,15,483
+2018,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,26,0,36,0,62
+2018,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,5,10,151,62,228
+2018,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,RA,P,0,0,5,0,5
+2018,Ukraine,Georgia,UKR,GEO,G,FI,P,0,5,5,0,10
+2018,Ukraine,Germany,UKR,DEU,G,JR,P,5,10,1140,826,1981
+2018,Ukraine,Germany,UKR,DEU,G,NA,P,20,53,1107,181,1361
+2018,Ukraine,Germany,UKR,DEU,G,RA,P,5,0,60,264,329
+2018,Ukraine,Greece,UKR,GRC,G,AR,P,0,5,19,0,24
+2018,Ukraine,Greece,UKR,GRC,G,FI,P,0,10,46,28,84
+2018,Ukraine,Iceland,UKR,ISL,G,AR,P,0,0,13,0,13
+2018,Ukraine,Iceland,UKR,ISL,G,FI,P,0,0,14,5,19
+2018,Ukraine,Ireland,UKR,IRL,G,AR,P,13,0,0,0,13
+2018,Ukraine,Ireland,UKR,IRL,G,FI,P,5,0,26,0,31
+2018,Ukraine,Italy,UKR,ITA,G,FI,P,41,874,1034,0,1949
+2018,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,5,5
+2018,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,0,18,11,29
+2018,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,0,5,5
+2018,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,0,0,11,11
+2018,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,0,10,10
+2018,Ukraine,Malta,UKR,MLT,G,AR,P,0,5,0,20,25
+2018,Ukraine,Malta,UKR,MLT,G,FI,P,0,10,32,21,63
+2018,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,0,202,16,218
+2018,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,11,0,11
+2018,Ukraine,Norway,UKR,NOR,G,AR,P,5,0,17,0,22
+2018,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,26,10,36
+2018,Ukraine,Norway,UKR,NOR,G,RA,P,0,0,5,0,5
+2018,Ukraine,Poland,UKR,POL,G,AR,P,0,10,277,13,300
+2018,Ukraine,Poland,UKR,POL,G,FI,P,11,74,443,89,617
+2018,Ukraine,Portugal,UKR,PRT,G,FI,P,0,50,20,35,105
+2018,Ukraine,Romania,UKR,ROU,G,FI,P,0,0,15,5,20
+2018,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,21,0,0,70,91
+2018,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,0,5383,0,1120,6503
+2018,Ukraine,Spain,UKR,ESP,G,FI,P,73,122,2681,0,2876
+2018,Ukraine,Slovakia,UKR,SVK,G,FA,P,0,0,5,0,5
+2018,Ukraine,Sweden,UKR,SWE,G,FI,P,5,0,348,126,479
+2018,Ukraine,Sweden,UKR,SWE,G,JR,P,5,0,289,64,358
+2018,Ukraine,Sweden,UKR,SWE,G,RA,P,0,0,40,10,50
+2018,Ukraine,Switzerland,UKR,CHE,G,FI,P,10,5,40,36,91
+2019,Ukraine,Austria,UKR,AUT,G,FA,P,12,10,363,47,432
+2019,Ukraine,Belgium,UKR,BEL,G,FI,P,16,0,39,17,72
+2019,Ukraine,Belgium,UKR,BEL,G,RA,P,0,0,16,5,21
+2019,Ukraine,Belarus,UKR,BLR,G,FI,P,0,588,0,14,602
+2019,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,0,5,0,5
+2019,Ukraine,Cyprus,UKR,CYP,G,AR,P,0,0,0,5,5
+2019,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,0,5,5
+2019,Ukraine,Czechia,UKR,CZE,G,FI,P,5,10,271,147,433
+2019,Ukraine,Denmark,UKR,DNK,G,AR,P,5,0,19,0,24
+2019,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,20,0,20
+2019,Ukraine,Estonia,UKR,EST,G,FI,P,5,0,10,0,15
+2019,Ukraine,Finland,UKR,FIN,G,FI,C,5,0,29,12,46
+2019,Ukraine,Finland,UKR,FIN,G,RA,C,0,0,0,11,11
+2019,Ukraine,France,UKR,FRA,G,AR,P,53,30,201,5,289
+2019,Ukraine,France,UKR,FRA,G,FI,P,50,32,450,79,611
+2019,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,29,0,33,5,67
+2019,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,5,10,134,48,197
+2019,Ukraine,Georgia,UKR,GEO,G,FI,P,0,0,0,11,11
+2019,Ukraine,Germany,UKR,DEU,G,JR,P,14,32,1213,618,1877
+2019,Ukraine,Germany,UKR,DEU,G,NA,P,10,41,808,240,1099
+2019,Ukraine,Germany,UKR,DEU,G,RA,P,5,5,52,269,331
+2019,Ukraine,Greece,UKR,GRC,G,FI,P,0,5,71,28,104
+2019,Ukraine,Croatia,UKR,HRV,G,FI,P,0,0,5,0,5
+2019,Ukraine,Croatia,UKR,HRV,G,JR,P,0,0,5,0,5
+2019,Ukraine,Iceland,UKR,ISL,G,AR,P,0,0,16,5,21
+2019,Ukraine,Iceland,UKR,ISL,G,FI,P,0,0,24,5,29
+2019,Ukraine,Ireland,UKR,IRL,G,AR,P,5,0,11,5,21
+2019,Ukraine,Ireland,UKR,IRL,G,FI,P,5,0,13,0,18
+2019,Ukraine,Italy,UKR,ITA,G,FI,P,105,387,3515,0,4007
+2019,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,0,15,0,15
+2019,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,15,0,15
+2019,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,11,0,11
+2019,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,0,5,0,5
+2019,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,5,0,5
+2019,Ukraine,Malta,UKR,MLT,G,AR,P,0,0,0,10,10
+2019,Ukraine,Malta,UKR,MLT,G,FI,P,0,0,0,12,12
+2019,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,0,48,21,69
+2019,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,15,12,27
+2019,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,19,0,19
+2019,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,23,0,23
+2019,Ukraine,Poland,UKR,POL,G,AR,P,5,0,143,0,148
+2019,Ukraine,Poland,UKR,POL,G,FI,P,5,11,356,86,458
+2019,Ukraine,Portugal,UKR,PRT,G,FI,P,0,13,0,27,40
+2019,Ukraine,Romania,UKR,ROU,G,FI,P,0,0,11,12,23
+2019,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,16,0,0,27,43
+2019,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,5300,0,0,650,5950
+2019,Ukraine,Spain,UKR,ESP,G,FI,P,13,56,1024,0,1093
+2019,Ukraine,"Serbia and Kosovo: S/RES/1244 (1999)",UKR,SRB,G,FI,P,0,0,0,5,5
+2019,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,12,0,12
+2019,Ukraine,Sweden,UKR,SWE,G,AR,P,0,0,502,60,562
+2019,Ukraine,Sweden,UKR,SWE,G,FI,P,0,0,624,183,807
+2019,Ukraine,Sweden,UKR,SWE,G,RA,P,0,0,19,18,37
+2019,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,5,29,28,62
+2020,Ukraine,Austria,UKR,AUT,G,FA,P,10,5,175,19,209
+2020,Ukraine,Belgium,UKR,BEL,G,FI,P,20,0,60,0,80
+2020,Ukraine,Belgium,UKR,BEL,G,RA,P,0,0,50,0,50
+2020,Ukraine,Belarus,UKR,BLR,G,FI,P,0,421,10,12,443
+2020,Ukraine,Belarus,UKR,BLR,G,JR,P,0,0,5,0,5
+2020,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,0,11,0,11
+2020,Ukraine,Cyprus,UKR,CYP,G,FI,P,0,0,0,11,11
+2020,Ukraine,Czechia,UKR,CZE,G,FI,P,0,12,248,132,392
+2020,Ukraine,Denmark,UKR,DNK,G,AR,P,0,0,11,0,11
+2020,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,16,0,16
+2020,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,10,5,15
+2020,Ukraine,Finland,UKR,FIN,G,RA,P,0,0,5,17,22
+2020,Ukraine,France,UKR,FRA,G,AR,P,27,5,122,0,154
+2020,Ukraine,France,UKR,FRA,G,FI,P,40,39,993,72,1144
+2020,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,10,0,17,0,27
+2020,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,5,13,94,18,130
+2020,Ukraine,Georgia,UKR,GEO,G,FI,P,0,0,0,5,5
+2020,Ukraine,Germany,UKR,DEU,G,JR,P,5,35,547,492,1079
+2020,Ukraine,Germany,UKR,DEU,G,NA,P,5,27,143,630,805
+2020,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,33,217,250
+2020,Ukraine,Greece,UKR,GRC,G,AR,P,0,0,91,5,96
+2020,Ukraine,Greece,UKR,GRC,G,FI,P,0,5,61,22,88
+2020,Ukraine,Iceland,UKR,ISL,G,AR,P,0,0,10,0,10
+2020,Ukraine,Iceland,UKR,ISL,G,FI,P,0,0,5,0,5
+2020,Ukraine,Ireland,UKR,IRL,G,AR,P,13,0,0,0,13
+2020,Ukraine,Italy,UKR,ITA,G,FI,P,71,279,870,0,1220
+2020,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,5,5
+2020,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,0,5,0,5
+2020,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,0,15,0,15
+2020,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,0,5,0,5
+2020,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,5,0,5
+2020,Ukraine,Malta,UKR,MLT,G,FI,P,0,0,10,11,21
+2020,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,5,28,12,45
+2020,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,10,0,10
+2020,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,24,0,24
+2020,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,16,0,16
+2020,Ukraine,Poland,UKR,POL,G,AR,P,0,5,302,0,307
+2020,Ukraine,Poland,UKR,POL,G,FI,P,5,18,313,37,373
+2020,Ukraine,Portugal,UKR,PRT,G,FI,P,0,5,18,21,45
+2020,Ukraine,Romania,UKR,ROU,G,FI,P,0,0,5,0,5
+2020,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,10,0,0,27,37
+2020,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,5079,0,0,320,5399
+2020,Ukraine,Spain,UKR,ESP,G,FI,P,34,257,2768,0,3059
+2020,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,0,0,5,5
+2020,Ukraine,Slovenia,UKR,SVN,G,FI,P,0,0,5,0,5
+2020,Ukraine,Sweden,UKR,SWE,G,AR,P,5,0,460,52,517
+2020,Ukraine,Sweden,UKR,SWE,G,FI,P,0,0,425,103,528
+2020,Ukraine,Sweden,UKR,SWE,G,RA,P,0,5,31,11,47
+2020,Ukraine,Switzerland,UKR,CHE,G,FI,P,5,0,23,15,43
+2021,Ukraine,Armenia,UKR,ARM,G,FI,P,0,0,0,5,5
+2021,Ukraine,Austria,UKR,AUT,G,FA,P,11,22,100,20,153
+2021,Ukraine,Belgium,UKR,BEL,G,FI,P,35,0,55,0,90
+2021,Ukraine,Belarus,UKR,BLR,G,FI,P,0,252,15,16,283
+2021,Ukraine,Belarus,UKR,BLR,G,JR,P,0,0,5,0,5
+2021,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,0,0,5,5
+2021,Ukraine,Cyprus,UKR,CYP,G,FA,P,0,0,10,31,41
+2021,Ukraine,Czechia,UKR,CZE,G,FI,P,0,5,278,142,425
+2021,Ukraine,Denmark,UKR,DNK,G,AR,P,0,0,5,0,5
+2021,Ukraine,Denmark,UKR,DNK,G,FI,P,0,0,13,0,13
+2021,Ukraine,Estonia,UKR,EST,G,FI,P,0,0,5,0,5
+2021,Ukraine,Finland,UKR,FIN,G,FI,P,0,0,11,0,11
+2021,Ukraine,Finland,UKR,FIN,G,RA,P,0,0,11,0,11
+2021,Ukraine,France,UKR,FRA,G,AR,P,42,33,263,52,390
+2021,Ukraine,France,UKR,FRA,G,FI,P,63,57,3224,21,3365
+2021,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,13,0,13,5,31
+2021,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,5,0,63,15,83
+2021,Ukraine,Georgia,UKR,GEO,G,FI,P,0,12,0,5,17
+2021,Ukraine,Germany,UKR,DEU,G,FI,P,5,24,382,77,488
+2021,Ukraine,Germany,UKR,DEU,G,JR,P,12,23,413,354,802
+2021,Ukraine,Germany,UKR,DEU,G,RA,P,0,0,42,205,247
+2021,Ukraine,Greece,UKR,GRC,G,AR,P,0,0,31,5,36
+2021,Ukraine,Greece,UKR,GRC,G,FI,P,0,11,29,21,61
+2021,Ukraine,Iceland,UKR,ISL,G,AR,P,0,5,0,0,5
+2021,Ukraine,Ireland,UKR,IRL,G,FI,P,0,0,11,0,11
+2021,Ukraine,Italy,UKR,ITA,G,FI,P,34,425,252,0,711
+2021,Ukraine,Liechtenstein,UKR,LIE,G,FI,P,0,0,0,10,10
+2021,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,0,5,0,5
+2021,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,5,0,5
+2021,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,0,0,5,0,5
+2021,Ukraine,Malta,UKR,MLT,G,AR,P,0,0,13,0,13
+2021,Ukraine,Malta,UKR,MLT,G,FI,P,0,0,5,31,36
+2021,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,10,5,34,17,66
+2021,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,5,5,10
+2021,Ukraine,Norway,UKR,NOR,G,AR,P,0,0,11,0,11
+2021,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,5,0,5
+2021,Ukraine,Poland,UKR,POL,G,FI,P,0,5,472,43,520
+2021,Ukraine,Portugal,UKR,PRT,G,FI,P,5,0,25,0,30
+2021,Ukraine,Romania,UKR,ROU,G,JR,P,0,0,5,0,5
+2021,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,0,0,0,12,12
+2021,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,3522,0,0,100,3622
+2021,Ukraine,Spain,UKR,ESP,G,FI,P,331,262,1802,0,2395
+2021,Ukraine,Sweden,UKR,SWE,G,AR,P,0,0,370,68,438
+2021,Ukraine,Sweden,UKR,SWE,G,FI,P,0,5,430,91,526
+2021,Ukraine,Sweden,UKR,SWE,G,RA,P,0,0,65,5,70
+2021,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,5,17,32,54
+2022,Ukraine,Armenia,UKR,ARM,G,FI,P,289,0,0,76,365
+2022,Ukraine,Austria,UKR,AUT,G,FA,P,5,75,31,49,160
+2022,Ukraine,Azerbaijan,UKR,AZE,G,FI,P,0,0,0,16,16
+2022,Ukraine,Belgium,UKR,BEL,G,FI,P,14,0,0,0,14
+2022,Ukraine,Belgium,UKR,BEL,G,JR,P,0,0,5,10,15
+2022,Ukraine,Belarus,UKR,BLR,G,FI,P,0,1519,0,315,1834
+2022,Ukraine,"Bosnia and Herzegovina",UKR,BIH,G,FI,P,0,14,0,15,29
+2022,Ukraine,Bulgaria,UKR,BGR,G,FA,P,0,501,0,810,1311
+2022,Ukraine,Cyprus,UKR,CYP,G,FA,P,0,0,0,17,17
+2022,Ukraine,Czechia,UKR,CZE,G,FI,P,0,278,43,151,472
+2022,Ukraine,Estonia,UKR,EST,G,FI,P,0,2040,13,39,2092
+2022,Ukraine,Finland,UKR,FIN,G,FI,P,5,0,0,121,126
+2022,Ukraine,Finland,UKR,FIN,G,RA,P,0,0,11,0,11
+2022,Ukraine,France,UKR,FRA,G,AR,P,5,18,90,5,118
+2022,Ukraine,France,UKR,FRA,G,FI,P,86,592,146,448,1272
+2022,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,AR,C,5,0,10,11,26
+2022,Ukraine,"United Kingdom of Great Britain and Northern Ireland",UKR,GBR,G,FI,P,5,5,0,132,142
+2022,Ukraine,Georgia,UKR,GEO,G,FI,P,0,367,0,98,465
+2022,Ukraine,Germany,UKR,DEU,G,FI,P,5,5,104,258,372
+2022,Ukraine,Germany,UKR,DEU,G,JR,P,10,326,74,378,788
+2022,Ukraine,Germany,UKR,DEU,G,RA,P,5,0,0,89,94
+2022,Ukraine,Greece,UKR,GRC,G,AR,P,0,44,5,5,54
+2022,Ukraine,Greece,UKR,GRC,G,FI,P,0,82,16,43,141
+2022,Ukraine,Iceland,UKR,ISL,G,AR,P,0,0,10,0,10
+2022,Ukraine,Iceland,UKR,ISL,G,FI,P,0,16,0,26,42
+2022,Ukraine,Ireland,UKR,IRL,G,AR,P,5,0,0,0,5
+2022,Ukraine,Ireland,UKR,IRL,G,FI,P,27,0,0,170,197
+2022,Ukraine,Italy,UKR,ITA,G,FI,P,98,1390,179,0,1667
+2022,Ukraine,Lithuania,UKR,LTU,G,FI,P,0,0,0,5,5
+2022,Ukraine,Luxembourg,UKR,LUX,G,FI,P,0,5,0,0,5
+2022,Ukraine,Latvia,UKR,LVA,G,FI,P,0,0,0,12,12
+2022,Ukraine,"North Macedonia",UKR,MKD,G,FA,P,0,0,0,5,5
+2022,Ukraine,"Rep. of Moldova",UKR,MDA,G,FI,P,25,21,0,4744,4790
+2022,Ukraine,"Rep. of Moldova",UKR,MDA,G,JR,P,0,0,0,5,5
+2022,Ukraine,Montenegro,UKR,MNE,G,FA,P,0,0,0,5,5
+2022,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,FI,P,0,5,5,36,46
+2022,Ukraine,"Netherlands (Kingdom of the)",UKR,NLD,G,RA,P,0,0,0,5,5
+2022,Ukraine,Norway,UKR,NOR,G,FI,P,0,0,0,536,536
+2022,Ukraine,Norway,UKR,NOR,G,RA,P,0,0,0,24,24
+2022,Ukraine,Poland,UKR,POL,G,AR,P,0,0,56,10,66
+2022,Ukraine,Poland,UKR,POL,G,FI,P,5,962,32,556,1555
+2022,Ukraine,Portugal,UKR,PRT,G,FI,P,10,0,0,0,10
+2022,Ukraine,Romania,UKR,ROU,G,FI,P,0,99,5,4172,4276
+2022,Ukraine,"Russian Federation",UKR,RUS,G,FI,P,5,0,0,53,58
+2022,Ukraine,"Russian Federation",UKR,RUS,G,TA,P,97591,0,0,2700,100291
+2022,Ukraine,Spain,UKR,ESP,G,FI,P,26,1311,175,10,1522
+2022,Ukraine,"Serbia and Kosovo: S/RES/1244 (1999)",UKR,SRB,G,FI,P,5,5,0,0,10
+2022,Ukraine,Slovakia,UKR,SVK,G,FI,P,0,14,0,137,151
+2022,Ukraine,Slovenia,UKR,SVN,G,FI,P,0,158,0,23,181
+2022,Ukraine,Sweden,UKR,SWE,G,AR,P,0,0,69,154,223
+2022,Ukraine,Sweden,UKR,SWE,G,FI,P,0,115,44,965,1124
+2022,Ukraine,Sweden,UKR,SWE,G,RA,P,0,5,10,49,64
+2022,Ukraine,Switzerland,UKR,CHE,G,FI,P,0,5,5,15,25
+2022,Ukraine,Türkiye,UKR,TUR,G,FI,P,2768,0,0,0,2768
