@@ -1,0 +1,335 @@
+Extracted:,United Nations High Commissioner for Refugees
+Date extracted:,15/08/2023 17:44:13
+Last updated:,15/08/2023 17:44:13
+
+Data table contains the following:,UNHCR resettlement departures
+Years selected:,"2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+2023 data (if included) as of:, June 2023
+Country of origin:,"AFG,IRQ,SYR"
+Country of asylum:,"ALB,ARM,AZE,BLR,BIH,HRV,CYP,CZE,GEO,HUN,MLT,MKD,MDA,ROU,RUS,SRB,TUR,UKR"
+Resettlement country:,"ALB,ARG,AUS,AUT,BLR,BEL,BRA,BGR,CAN,CHL,HRV,CYP,CZE,DNK,EST,FIN,FRA,DEU,HUN,ISL,IRL,ITA,JPN,LVA,LIE,LTU,LUX,MLT,MEX,MCO,NLD,NZL,NOR,PRY,POL,PRT,KOR,ROU,SVK,SVN,ESP,SWE,CHE,GBR,USA,URY"
+
+Year,Country of Origin (ISO),Country of Origin,Country of Asylum,Country of Asylum (ISO),Country of Resettlement (ISO),Country of Resettlement,Total departures (persons)
+2015,AFG,"Afghanistan",TUR,"Turkiye",FIN,"Finland",4
+2015,SYR,"Syrian Arab Rep.",All others,"All others",DNK,"Denmark",144
+2015,IRQ,"Iraq",RUS,"Russian Federation",CAN,"Canada",1
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",AUT,"Austria",40
+2015,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",448
+2015,IRQ,"Iraq",All others,"All others",AUS,"Australia",520
+2015,SYR,"Syrian Arab Rep.",All others,"All others",SWE,"Sweden",549
+2015,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",687
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",3
+2015,IRQ,"Iraq",TUR,"Turkiye",ROU,"Romania",2
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",320
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",52
+2015,IRQ,"Iraq",All others,"All others",SWE,"Sweden",45
+2015,AFG,"Afghanistan",TUR,"Turkiye",FRA,"France",3
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LIE,"Liechtenstein",17
+2015,SYR,"Syrian Arab Rep.",All others,"All others",ESP,"Spain",92
+2015,IRQ,"Iraq",TUR,"Turkiye",SWE,"Sweden",2
+2015,IRQ,"Iraq",All others,"All others",CAN,"Canada",1311
+2015,SYR,"Syrian Arab Rep.",All others,"All others",USA,"United States of America",1862
+2015,IRQ,"Iraq",All others,"All others",USA,"United States of America",1394
+2015,AFG,"Afghanistan",UKR,"Ukraine",FIN,"Finland",6
+2015,AFG,"Afghanistan",All others,"All others",AUS,"Australia",1059
+2015,SYR,"Syrian Arab Rep.",All others,"All others",FIN,"Finland",372
+2015,IRQ,"Iraq",RUS,"Russian Federation",SWE,"Sweden",1
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",43
+2015,IRQ,"Iraq",All others,"All others",CHE,"Switzerland",89
+2015,SYR,"Syrian Arab Rep.",All others,"All others",AUS,"Australia",152
+2015,AFG,"Afghanistan",UKR,"Ukraine",SWE,"Sweden",1
+2015,AFG,"Afghanistan",All others,"All others",CAN,"Canada",294
+2015,SYR,"Syrian Arab Rep.",All others,"All others",FRA,"France",587
+2015,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",639
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",126
+2015,AFG,"Afghanistan",RUS,"Russian Federation",NOR,"Norway",5
+2015,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",2725
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",90
+2015,IRQ,"Iraq",All others,"All others",DEU,"Germany",55
+2015,SYR,"Syrian Arab Rep.",All others,"All others",AUT,"Austria",581
+2015,AFG,"Afghanistan",All others,"All others",DEU,"Germany",5
+2015,SYR,"Syrian Arab Rep.",AZE,"Azerbaijan",USA,"United States of America",5
+2015,SYR,"Syrian Arab Rep.",All others,"All others",GBR,"United Kingdom of Great Britain and Northern Ireland",1118
+2015,AFG,"Afghanistan",RUS,"Russian Federation",SWE,"Sweden",1
+2015,AFG,"Afghanistan",All others,"All others",FRA,"France",13
+2015,IRQ,"Iraq",All others,"All others",DNK,"Denmark",1
+2015,AFG,"Afghanistan",All others,"All others",DNK,"Denmark",14
+2015,SYR,"Syrian Arab Rep.",BSN,"Bosnia and Herzegovina",CAN,"Canada",10
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",HUN,"Hungary",2
+2015,SYR,"Syrian Arab Rep.",All others,"All others",BEL,"Belgium",145
+2015,AFG,"Afghanistan",UKR,"Ukraine",USA,"United States of America",4
+2015,IRQ,"Iraq",TUR,"Turkiye",FIN,"Finland",16
+2015,SYR,"Syrian Arab Rep.",All others,"All others",IRL,"Ireland",145
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LUX,"Luxembourg",49
+2015,AFG,"Afghanistan",All others,"All others",GBR,"United Kingdom of Great Britain and Northern Ireland",4
+2015,IRQ,"Iraq",All others,"All others",FIN,"Finland",7
+2015,AFG,"Afghanistan",All others,"All others",FIN,"Finland",124
+2015,SYR,"Syrian Arab Rep.",All others,"All others",BLR,"Belarus",14
+2015,AFG,"Afghanistan",All others,"All others",NLD,"Netherlands",5
+2015,SYR,"Syrian Arab Rep.",All others,"All others",ITA,"Italy",96
+2015,AFG,"Afghanistan",RUS,"Russian Federation",USA,"United States of America",13
+2015,AFG,"Afghanistan",TUR,"Turkiye",AUS,"Australia",2
+2015,IRQ,"Iraq",All others,"All others",GBR,"United Kingdom of Great Britain and Northern Ireland",4
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ISL,"Iceland",12
+2015,SYR,"Syrian Arab Rep.",All others,"All others",BRA,"Brazil",2
+2015,AFG,"Afghanistan",AZE,"Azerbaijan",USA,"United States of America",30
+2015,AFG,"Afghanistan",All others,"All others",NOR,"Norway",234
+2015,SYR,"Syrian Arab Rep.",All others,"All others",NLD,"Netherlands",233
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",AUS,"Australia",15
+2015,IRQ,"Iraq",All others,"All others",IRL,"Ireland",31
+2015,SYR,"Syrian Arab Rep.",All others,"All others",CAN,"Canada",2999
+2015,IRQ,"Iraq",AZE,"Azerbaijan",CAN,"Canada",1
+2015,AFG,"Afghanistan",All others,"All others",NZL,"New Zealand",151
+2015,SYR,"Syrian Arab Rep.",All others,"All others",NOR,"Norway",1297
+2015,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NOR,"Norway",372
+2015,IRQ,"Iraq",All others,"All others",NLD,"Netherlands",3
+2015,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",SWE,"Sweden",2
+2015,SYR,"Syrian Arab Rep.",All others,"All others",CHE,"Switzerland",548
+2015,IRQ,"Iraq",BSN,"Bosnia and Herzegovina",CAN,"Canada",1
+2015,AFG,"Afghanistan",All others,"All others",SWE,"Sweden",211
+2015,SYR,"Syrian Arab Rep.",All others,"All others",NZL,"New Zealand",67
+2015,IRQ,"Iraq",All others,"All others",NOR,"Norway",4
+2015,SYR,"Syrian Arab Rep.",UKR,"Ukraine",DNK,"Denmark",1
+2015,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",20
+2015,AFG,"Afghanistan",RUS,"Russian Federation",CAN,"Canada",51
+2015,SYR,"Syrian Arab Rep.",All others,"All others",DEU,"Germany",1627
+2015,AFG,"Afghanistan",All others,"All others",USA,"United States of America",710
+2015,SYR,"Syrian Arab Rep.",All others,"All others",PRT,"Portugal",27
+2015,IRQ,"Iraq",All others,"All others",NZL,"New Zealand",49
+2016,AFG,"Afghanistan",RUS,"Russian Federation",CAN,"Canada",10
+2016,IRQ,"Iraq",RUS,"Russian Federation",DNK,"Denmark",1
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",2216
+2016,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",492
+2016,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",279
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",450
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",2438
+2016,IRQ,"Iraq",UKR,"Ukraine",USA,"United States of America",1
+2016,AFG,"Afghanistan",RUS,"Russian Federation",FIN,"Finland",16
+2016,AFG,"Afghanistan",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",3
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LTU,"Lithuania",25
+2016,IRQ,"Iraq",TUR,"Turkiye",ITA,"Italy",1
+2016,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",USA,"United States of America",4
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",1033
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",102
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",PRT,"Portugal",12
+2016,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",357
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",308
+2016,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",3786
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",702
+2016,AFG,"Afghanistan",RUS,"Russian Federation",SWE,"Sweden",3
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",EST,"Estonia",11
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",HUN,"Hungary",4
+2016,AFG,"Afghanistan",UKR,"Ukraine",USA,"United States of America",20
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LUX,"Luxembourg",52
+2016,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",9
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",432
+2016,IRQ,"Iraq",TUR,"Turkiye",NZL,"New Zealand",1
+2016,AFG,"Afghanistan",RUS,"Russian Federation",USA,"United States of America",14
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ITA,"Italy",81
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",AUS,"Australia",69
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LVA,"Latvia",6
+2016,AFG,"Afghanistan",UKR,"Ukraine",CAN,"Canada",1
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NOR,"Norway",313
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",57
+2016,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",SWE,"Sweden",7
+2016,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",132
+2017,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",SWE,"Sweden",7
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",845
+2017,AFG,"Afghanistan",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",AUS,"Australia",2
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",2703
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",AUT,"Austria",214
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",HRV,"Croatia",40
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",1055
+2017,AFG,"Afghanistan",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",FRA,"France",2
+2017,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",185
+2017,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",327
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",2103
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",742
+2017,SYR,"Syrian Arab Rep.",ARM,"Armenia",FIN,"Finland",1
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LTU,"Lithuania",58
+2017,AFG,"Afghanistan",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",28
+2017,AFG,"Afghanistan",UKR,"Ukraine",SWE,"Sweden",6
+2017,AFG,"Afghanistan",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",SWE,"Sweden",16
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",715
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",PRT,"Portugal",131
+2017,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",219
+2017,IRQ,"Iraq",TUR,"Turkiye",LUX,"Luxembourg",1
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",456
+2017,SYR,"Syrian Arab Rep.",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",NOR,"Norway",2
+2017,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",1441
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",453
+2017,IRQ,"Iraq",TUR,"Turkiye",FIN,"Finland",1
+2017,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",FIN,"Finland",6
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",EST,"Estonia",19
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LUX,"Luxembourg",154
+2017,AFG,"Afghanistan",AZE,"Azerbaijan",USA,"United States of America",3
+2017,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",91
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",766
+2017,AFG,"Afghanistan",RUS,"Russian Federation",USA,"United States of America",3
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ROU,"Romania",43
+2017,AFG,"Afghanistan",BLR,"Belarus",USA,"United States of America",15
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ITA,"Italy",245
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",AUS,"Australia",2
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LVA,"Latvia",40
+2017,IRQ,"Iraq",TUR,"Turkiye",CHE,"Switzerland",5
+2017,IRQ,"Iraq",GEO,"Georgia",SWE,"Sweden",1
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",MLT,"Malta",17
+2017,AFG,"Afghanistan",UKR,"Ukraine",CAN,"Canada",9
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NOR,"Norway",530
+2017,SYR,"Syrian Arab Rep.",UKR,"Ukraine",SWE,"Sweden",1
+2017,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",358
+2018,AFG,"Afghanistan",UKR,"Ukraine",CAN,"Canada",2
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NOR,"Norway",407
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",17
+2018,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",SWE,"Sweden",6
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",361
+2018,IRQ,"Iraq",TUR,"Turkiye",DEU,"Germany",1
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NZL,"New Zealand",1
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SVN,"Slovenia",34
+2018,IRQ,"Iraq",TUR,"Turkiye",SWE,"Sweden",2
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",2823
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",HRV,"Croatia",88
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",12
+2018,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",117
+2018,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",159
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",699
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",583
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",LTU,"Lithuania",18
+2018,SYR,"Syrian Arab Rep.",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",FIN,"Finland",5
+2018,AFG,"Afghanistan",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",25
+2018,AFG,"Afghanistan",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",SWE,"Sweden",15
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",336
+2018,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",52
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",319
+2018,SYR,"Syrian Arab Rep.",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",SWE,"Sweden",1
+2018,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",19
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",195
+2018,AFG,"Afghanistan",UKR,"Ukraine",USA,"United States of America",16
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",EST,"Estonia",29
+2018,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",67
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",2072
+2018,AFG,"Afghanistan",RUS,"Russian Federation",USA,"United States of America",4
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BGR,"Bulgaria",21
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ITA,"Italy",50
+2018,SYR,"Syrian Arab Rep.",TUR,"Turkiye",AUS,"Australia",31
+2018,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",28
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ITA,"Italy",14
+2019,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",89
+2019,AFG,"Afghanistan",RUS,"Russian Federation",CAN,"Canada",5
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",319
+2019,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",SWE,"Sweden",1
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",575
+2019,IRQ,"Iraq",TUR,"Turkiye",DEU,"Germany",3
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NZL,"New Zealand",11
+2019,AFG,"Afghanistan",SRB,"Serbia and Kosovo: S/RES/1244 (1999)",FRA,"France",8
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",2425
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",HRV,"Croatia",122
+2019,IRQ,"Iraq",TUR,"Turkiye",ITA,"Italy",1
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",1151
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",21
+2019,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",1049
+2019,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",498
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",585
+2019,AFG,"Afghanistan",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",23
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",PRT,"Portugal",93
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",215
+2019,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",44
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",867
+2019,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",38
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",479
+2019,SYR,"Syrian Arab Rep.",RUS,"Russian Federation",FIN,"Finland",3
+2019,AFG,"Afghanistan",TUR,"Turkiye",SWE,"Sweden",34
+2019,IRQ,"Iraq",TUR,"Turkiye",PRT,"Portugal",93
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",EST,"Estonia",7
+2019,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",55
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ROU,"Romania",31
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",1295
+2019,AFG,"Afghanistan",RUS,"Russian Federation",USA,"United States of America",12
+2019,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BGR,"Bulgaria",64
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ROU,"Romania",37
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",284
+2020,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",7
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",7
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",278
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",1180
+2020,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",115
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",127
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",11
+2020,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",211
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",618
+2020,AFG,"Afghanistan",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",4
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",PRT,"Portugal",103
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",43
+2020,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",106
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",259
+2020,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",291
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DNK,"Denmark",31
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",124
+2020,IRQ,"Iraq",TUR,"Turkiye",PRT,"Portugal",89
+2020,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CHE,"Switzerland",24
+2021,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",8
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CHE,"Switzerland",142
+2021,SYR,"Syrian Arab Rep.",UKR,"Ukraine",USA,"United States of America",6
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",193
+2021,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",130
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",147
+2021,IRQ,"Iraq",TUR,"Turkiye",ESP,"Spain",1
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",280
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",2185
+2021,AFG,"Afghanistan",TUR,"Turkiye",CHE,"Switzerland",78
+2021,IRQ,"Iraq",TUR,"Turkiye",NLD,"Netherlands",1
+2021,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",72
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",366
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",146
+2021,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",700
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",989
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",PRT,"Portugal",132
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",BEL,"Belgium",451
+2021,AFG,"Afghanistan",TUR,"Turkiye",ESP,"Spain",4
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",488
+2021,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",349
+2021,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",89
+2021,IRQ,"Iraq",TUR,"Turkiye",PRT,"Portugal",51
+2021,IRQ,"Iraq",TUR,"Turkiye",CHE,"Switzerland",39
+2022,AFG,"Afghanistan",RUS,"Russian Federation",USA,"United States of America",7
+2022,IRQ,"Iraq",TUR,"Turkiye",CHE,"Switzerland",5
+2022,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",51
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ROU,"Romania",40
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CHE,"Switzerland",17
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FRA,"France",678
+2022,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",778
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",ESP,"Spain",10
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",230
+2022,SYR,"Syrian Arab Rep.",MTA,"Malta",USA,"United States of America",8
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",2854
+2022,AFG,"Afghanistan",TUR,"Turkiye",CHE,"Switzerland",95
+2022,AFG,"Afghanistan",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",47
+2022,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",95
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",NLD,"Netherlands",723
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",439
+2022,AFG,"Afghanistan",TUR,"Turkiye",AUS,"Australia",560
+2022,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",271
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",1594
+2022,AFG,"Afghanistan",TUR,"Turkiye",SWE,"Sweden",228
+2022,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",49
+2022,AFG,"Afghanistan",TUR,"Turkiye",ESP,"Spain",5
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",SWE,"Sweden",489
+2022,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",84
+2022,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",311
+2023,SYR,"Syrian Arab Rep.",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",16
+2023,IRQ,"Iraq",TUR,"Turkiye",USA,"United States of America",6
+2023,IRQ,"Iraq",TUR,"Turkiye",GBR,"United Kingdom of Great Britain and Northern Ireland",10
+2023,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CHE,"Switzerland",3
+2023,AFG,"Afghanistan",TUR,"Turkiye",CAN,"Canada",116
+2023,SYR,"Syrian Arab Rep.",TUR,"Turkiye",FIN,"Finland",13
+2023,SYR,"Syrian Arab Rep.",TUR,"Turkiye",DEU,"Germany",6
+2023,AFG,"Afghanistan",TUR,"Turkiye",CHE,"Switzerland",23
+2023,IRQ,"Iraq",TUR,"Turkiye",CAN,"Canada",6
+2023,SYR,"Syrian Arab Rep.",TUR,"Turkiye",USA,"United States of America",6
+2023,AFG,"Afghanistan",TUR,"Turkiye",AUS,"Australia",30
+2023,AFG,"Afghanistan",TUR,"Turkiye",USA,"United States of America",28
+2023,SYR,"Syrian Arab Rep.",TUR,"Turkiye",CAN,"Canada",231
+2023,AFG,"Afghanistan",TUR,"Turkiye",SWE,"Sweden",1
+2023,IRQ,"Iraq",TUR,"Turkiye",AUS,"Australia",8
+
+"Some data presented may differ from statistics published previously due to retroactive changes or the inclusion of previously unavailable data. In addition, resettlement departure figures reported by UNHCR may not match resettlement statistics published by States as Government figures may include individuals who were resettled outside of UNHCR processes. More information about UNHCR's resettlement programe can be found at http://www.unhcr.org/resettlement.html."
